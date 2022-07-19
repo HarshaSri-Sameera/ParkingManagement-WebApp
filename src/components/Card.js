@@ -61,7 +61,7 @@ function Card() {
                 })
               }
             </div>
-        <button variant="primary" style={{marginTop:"6rem", color: "red", border: "2px solid red", borderRadius: "20px"}} onClick={addMore}>Add More</button>
+        <button variant="primary" style={{marginTop:"6rem", color: "#AA4A44", border: "2px solid #AA4A44", borderRadius: "20px"}} onClick={addMore}>Add More</button>
         </div>
     );
 }
